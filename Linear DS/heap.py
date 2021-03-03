@@ -1,5 +1,6 @@
 '''
 HEAP DATA STRUCTURE
+- Don't confuse heap as a tree. Heap is basically represented as an array and hence linear
 
 arr = [1, 3, 5, 4, 6, 13, 10, 9, 8, 15, 17]
 
@@ -38,7 +39,7 @@ Building Heap:
 - O(NLogN)
 Deletion (root) :
 - O(LogN)
-Inserion
+Insertion
 - O(LogN)
 Peak/min Peak Finding
 - O(1)
