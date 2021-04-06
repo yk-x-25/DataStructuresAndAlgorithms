@@ -90,8 +90,8 @@ def BackTrackAndFindPlace(n,depth,placedQueen):
     #Could not place the queen , step back and try other position
     return False
 
-# Change here for simulating other nxn nqueens
-n=9
+# Change here for simulating other nxn chessboard
+n=8
 
 placedQueen = [0 for _ in range(n)]
 if BackTrackAndFindPlace(n,0,placedQueen):
