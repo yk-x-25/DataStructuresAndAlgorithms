@@ -104,10 +104,11 @@ if __name__ == '__main__':
                 visited.add(temp)
                 print(temp.data) 
 
-```
+        ```
 
-# N QUEENS
-
+# # N QUEENS
+This is a typical backtracking example where would need to place n queens in nxn chessboard such that any queen is not under attack.
+I have added the code snippet which is self explanatory and will generate the placement of such queen
 ```
 ________________________
 |Q_|__|__|__|__|__|__|__|
@@ -119,3 +120,4 @@ ________________________
 |__|Q_|__|__|__|__|__|__|
 |__|__|__|Q_|__|__|__|__|
 ```
+
