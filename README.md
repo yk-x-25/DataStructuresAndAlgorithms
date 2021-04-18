@@ -107,7 +107,7 @@ if __name__ == '__main__':
         ```
 
 # # N QUEENS
-This is a typical backtracking example where would need to place n queens in nxn chessboard such that any queen is not under attack.
+This is a typical backtracking example where the need is to place n queens in a nxn chessboard such that no queen is under attack.
 I have added the code snippet which is self explanatory and will generate the placement in the chess board.
 ```
 ________________________
