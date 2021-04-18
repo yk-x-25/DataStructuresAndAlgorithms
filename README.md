@@ -121,3 +121,6 @@ ________________________
 |__|__|__|Q_|__|__|__|__|
 ```
 
+# # AutoComplete Feature - Trie
+![GIF of Autocomplete](https://github.com/TheYk98/DataStructuresAndAlgorithms/blob/master/Ds%20Application/TheYkSearchBar/autoComplete.gif)
+
